@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/chengkuan/source/repos/FinalProject_041039968
+# Install script for directory: C:/Users/chengkuan/source/SimonGame
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/chengkuan/source/repos/FinalProject_041039968/out/install/x64-debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/chengkuan/source/SimonGame/out/install/x64-debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/chengkuan/source/repos/FinalProject_041039968/out/build/x64-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/chengkuan/source/SimonGame/out/build/x64-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
