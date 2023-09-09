@@ -1,0 +1,132 @@
+Renderer.1 {
+    BackgroundColor = #F5F5F5;
+    BackgroundColorDisabled = #E6E6E6;
+    BackgroundColorDown = #EBEBEB;
+    BackgroundColorHover = white;
+    BorderColor = #3C3C3C;
+    BorderColorDisabled = #7D7D7D;
+    BorderColorDown = black;
+    BorderColorFocused = #1E1EB4;
+    BorderColorHover = black;
+    Borders = (1, 1, 1, 1);
+    TextColor = #3C3C3C;
+    TextColorDisabled = #7D7D7D;
+    TextColorDown = black;
+    TextColorHover = black;
+    Texture = None;
+    TextureDisabled = None;
+    TextureDown = None;
+    TextureDownFocused = None;
+    TextureDownHover = None;
+    TextureFocused = None;
+    TextureHover = None;
+}
+
+Button.greenButton {
+    Position = (190, 40);
+    Renderer = &1;
+    Text = "GREEN 1";
+    TextSize = 13;
+}
+
+Button.redButton {
+    Position = (440, 30);
+    Renderer = &1;
+    Text = "RED 0";
+    TextSize = 13;
+}
+
+Button.blueButton {
+    Position = (440, 130);
+    Renderer = &1;
+    Text = "BLUE 2";
+    TextSize = 13;
+}
+
+Button.startButton {
+    Position = (290, 70);
+    Renderer = &1;
+    Text = "START/RESTART";
+    TextSize = 13;
+}
+
+Button.yellowButton {
+    Position = (180, 130);
+    Renderer = &1;
+    Text = "YELLOW 3 ";
+    TextSize = 13;
+}
+
+Label.gameOverLabel {
+    Position = (70, 180);
+    Size = (468, 90);
+    TextSize = 25;
+
+    Renderer {
+        BackgroundColor = #19FF2500;
+        BorderColor = #3C3C3C;
+        Borders = (0, 0, 0, 0);
+        TextColor = #F2FF60;
+        TextureBackground = None;
+
+        Scrollbar {
+            ArrowBackgroundColor = #F5F5F5;
+            ArrowBackgroundColorHover = white;
+            ArrowColor = #3C3C3C;
+            ArrowColorHover = black;
+            TextureArrowDown = None;
+            TextureArrowDownHover = None;
+            TextureArrowUp = None;
+            TextureArrowUpHover = None;
+            TextureThumb = None;
+            TextureThumbHover = None;
+            TextureTrack = None;
+            TextureTrackHover = None;
+            ThumbColor = #DCDCDC;
+            ThumbColorHover = #E6E6E6;
+            TrackColor = #F5F5F5;
+        }
+    }
+}
+
+ChatBox.chatBox {
+    LinesStartFromTop = false;
+    NewLinesBelowOthers = true;
+    Position = (110, 300);
+    Size = (270, 124);
+    TextColor = black;
+    TextSize = 13;
+
+    Renderer {
+        BackgroundColor = #F5F5F5;
+        BorderColor = black;
+        Borders = (1, 1, 1, 1);
+        Padding = (0, 0, 0, 0);
+        TextureBackground = None;
+
+        Scrollbar {
+            ArrowBackgroundColor = #F5F5F5;
+            ArrowBackgroundColorHover = white;
+            ArrowColor = #3C3C3C;
+            ArrowColorHover = black;
+            TextureArrowDown = None;
+            TextureArrowDownHover = None;
+            TextureArrowUp = None;
+            TextureArrowUpHover = None;
+            TextureThumb = None;
+            TextureThumbHover = None;
+            TextureTrack = None;
+            TextureTrackHover = None;
+            ThumbColor = #DCDCDC;
+            ThumbColorHover = #E6E6E6;
+            TrackColor = #F5F5F5;
+        }
+    }
+}
+
+Button.quitBotton {
+    Position = (460, 310);
+    Renderer = &1;
+    Text = QUIT;
+    TextSize = 13;
+}
