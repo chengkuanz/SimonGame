@@ -53,7 +53,7 @@ last update: 2023 September
 
 ## Acknowledge
 
-Sound effects comes from [Pixabay](https://pixabay.com/sound-effects/search/game/)
+Audio files for sound effects comes from [Pixabay](https://pixabay.com/sound-effects/search/game/)
 
 
 
