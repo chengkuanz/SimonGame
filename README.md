@@ -28,6 +28,21 @@ If you input the wrong color or take more than 5 seconds to make a selection, th
 
 [SFML](https://www.sfml-dev.org/)
 
+## Download
+
+Go to [Release](https://github.com/chengkuanz/SimonGame/releases) and download the latest `Simon.zip`
+
+## Setup
+### Prerequisites
+- [C++](https://isocpp.org/) 11 or higher
+- [Visual Studio](https://visualstudio.microsoft.com/) 2022 (optional)
+
+### Usage
+
+- Unzip `Simon.zip`
+- Run the `SimonGame.exe`, make sure `SimonGame.exe` and `.dll` are in the same folder.
+
+
 ## Author
 
 [Chengkuan Zhao](https://github.com/chengkuanz) 
