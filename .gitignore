@@ -1,2 +1,4 @@
-.vs/
-./out/build/x64-debug/CMakeFiles
+*.vs/
+*out/build/x64-debug/CMakeFiles/
+*out/build/x64-debug/.cmake/
+*out/build/x64-debug/CMakeCache.txt
