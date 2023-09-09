@@ -42,7 +42,7 @@ Go to [Release](https://github.com/chengkuanz/SimonGame/releases) and download t
 ### Usage
 
 - Unzip `Simon.zip`
-- Run the `SimonGame.exe`, make sure `SimonGame.exe` and `.dll` are in the same folder.
+- Run the `SimonGame.exe`, make sure `SimonGame.exe` and `*.dll` are in the same folder.
 
 
 ## Author
