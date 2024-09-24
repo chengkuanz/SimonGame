@@ -26,9 +26,9 @@ If you input the wrong color or take more than 5 seconds to make a selection, th
 
 ## Libraries
 
-[TGUI](https://tgui.eu/)
+[Texus' Graphical User Interface (TGUI)](https://tgui.eu/)
 
-[SFML](https://www.sfml-dev.org/)
+[Simple and Fast Multimedia Library (SFML)](https://www.sfml-dev.org/)
 
 ## Download
 
