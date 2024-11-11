@@ -148,6 +148,9 @@ int main() {
 			gui.handleEvent(event);
 		}
 
+		// Clear the window with white background
+		window.clear(sf::Color::White);
+
 
 		if (startFlashing || continueFlashing) {
 
@@ -206,25 +209,25 @@ int main() {
 
 			switch (whichBottonToFlashing) {
 			case 0:
-				redButton->getRenderer()->setBackgroundColor(sf::Color::White);
+				redButton->getRenderer()->setBackgroundColor(sf::Color::Cyan);
 				gui.draw(); window.display();
 				sf::sleep(sf::milliseconds(500));
 				redButton->getRenderer()->setBackgroundColor(sf::Color::Red);
 				break;
 			case 1:
-				greenButton->getRenderer()->setBackgroundColor(sf::Color::White);
+				greenButton->getRenderer()->setBackgroundColor(sf::Color::Magenta);
 				gui.draw(); window.display();
 				sf::sleep(sf::milliseconds(500));
 				greenButton->getRenderer()->setBackgroundColor(sf::Color::Green);
 				break;
 			case 2:
-				blueButton->getRenderer()->setBackgroundColor(sf::Color::White);
+				blueButton->getRenderer()->setBackgroundColor(sf::Color::Magenta);
 				gui.draw(); window.display();
 				sf::sleep(sf::milliseconds(500));
 				blueButton->getRenderer()->setBackgroundColor(sf::Color::Blue);
 				break;
 			case 3:
-				yellowButton->getRenderer()->setBackgroundColor(sf::Color::White);
+				yellowButton->getRenderer()->setBackgroundColor(sf::Color::Cyan);
 				gui.draw(); window.display();
 				sf::sleep(sf::milliseconds(500));
 				yellowButton->getRenderer()->setBackgroundColor(sf::Color::Yellow);
