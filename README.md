@@ -7,6 +7,12 @@ A fun and interactive memory game that tests your ability to remember a sequence
 
 This project is a Simon Game implemented in C++ using the [TGUI](https://tgui.eu/) and [SFML](https://www.sfml-dev.org/) libraries. In this game, players are required to memorize a sequence of colors and then replicate it correctly to proceed to the next cycle. The game becomes progressively harder as the sequence becomes longer with each level.
 
+## Demo Video
+
+
+[Simon-Game-ScreenRecording.webm](https://github.com/user-attachments/assets/3105e9ef-4ffd-4854-b7f4-413e1f3829e9)
+
+
 ## Pictures
 ![ScreenshotOfSimonGame](Pictures/ScreenshotOfSimonGame.png?)
 
