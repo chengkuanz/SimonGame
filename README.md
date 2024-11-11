@@ -14,7 +14,8 @@ This project is a Simon Game implemented in C++ using the [TGUI](https://tgui.eu
 
 
 ## Pictures
-![ScreenshotOfSimonGame](Pictures/ScreenshotOfSimonGame.png?)
+![ScreenshotOfSimonGame](https://github.com/user-attachments/assets/3efd337f-32f6-4c14-98e3-1e0d8de463e0)
+
 
 ## How to Play
 
