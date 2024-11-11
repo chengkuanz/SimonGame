@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/b82c9604-c5b9-48e1-ada7-6092a864dd6a
 
 
 
-## Pictures
+## Picture
 ![ScreenshotOfSimonGame](https://github.com/user-attachments/assets/3efd337f-32f6-4c14-98e3-1e0d8de463e0)
 
 
