@@ -10,7 +10,9 @@ This project is a Simon Game implemented in C++ using the [TGUI](https://tgui.eu
 ## Demo Video
 
 
-[Simon-Game-ScreenRecording.webm](https://github.com/user-attachments/assets/3105e9ef-4ffd-4854-b7f4-413e1f3829e9)
+
+https://github.com/user-attachments/assets/b82c9604-c5b9-48e1-ada7-6092a864dd6a
+
 
 
 ## Pictures
